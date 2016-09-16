@@ -1,0 +1,32 @@
+.circle {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	text-align: center;
+	line-height: 100px;
+	float: left;
+	margin: 10px;
+}
+.fizzBuzz {
+	background-color: #BCED91;
+}
+
+.fizz {
+	background-color: #0080FF;
+}
+
+.buzz {
+	background-color: #FBEC5D;
+}
+
+.none {
+	background-color: #F0F0F0;
+}
+
+#content {
+	width: 880px;
+	margin: auto;
+}
+.title{
+	text-align: center;
+}
